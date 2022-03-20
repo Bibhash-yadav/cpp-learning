@@ -20,6 +20,7 @@ int GfG::i = 10;
 
 int main()
 {
+    //create obj
     GfG obj1;
     obj1.i = 101; // --> i : GfG
     obj1.j = 102; // --> j : obj1
